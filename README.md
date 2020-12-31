@@ -8,4 +8,5 @@
 
 背景图都在 `./css/lovexhj.css` 里进行修改
 
+[预览](https://lovexhj.cn/)
 [博客原文](https://blog.n0ts.cn/1126.html)
