@@ -31,8 +31,3 @@
 
 + 我的主页：[Nutssss](https://n0ts.cn/)
 + 我的博客：[NutssssBlog](https://blog.n0ts.cn/)
-
-> tianxia007 基于vue的二次开发项目地址
-
-感谢 tianxia007 对于本单页做出的二次开发，增加了BGM等等一系列功能（暂时的），根据描述或许会增加后端修改等功能方便快速更改网站数据
-感兴趣可以去这里看看 [tianxia007基于vue二次开发项目地址](https://gitee.com/dwxdfhx/vue_lovexhjTo520)
